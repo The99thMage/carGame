@@ -28,9 +28,9 @@ function preload() {
   ground_img = loadImage("Images/ground.png");
   track_img = loadImage("Images/track.png");
 
-  bronze_img = loadImage("Images/bronze.png");
-  silver_img = loadImage("Images/bronze.png");
-  gold_img = loadImage("Images/bronze.png");
+  bronze_img = loadImage("Images/Bronze.png");
+  silver_img = loadImage("Images/silver.png");
+  gold_img = loadImage("Images/gold.png");
 
 }
 
